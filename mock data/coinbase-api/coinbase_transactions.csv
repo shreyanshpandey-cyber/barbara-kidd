@@ -1,0 +1,11 @@
+transaction_id,account_id,type,amount,currency,native_amount,native_currency,status,created_at,updated_at,description,network_fee
+CBTX-0001,CB-9001,buy,0.00512,BTC,347.21,USD,completed,2026-10-01T10:15:00Z,2026-10-01T10:16:00Z,Bought Bitcoin,0.99
+CBTX-0002,CB-9002,buy,0.05,ETH,154.85,USD,completed,2026-10-05T14:22:00Z,2026-10-05T14:23:00Z,Bought Ethereum,0.99
+CBTX-0003,CB-9001,send,0.001,BTC,67.88,USD,completed,2026-10-10T09:00:00Z,2026-10-10T09:02:00Z,Sent BTC to external wallet,2.50
+CBTX-0004,CB-9003,receive,50.0,USDC,50.0,USD,completed,2026-10-12T17:45:00Z,2026-10-12T17:45:00Z,Received USDC from Coinbase Pro,0.00
+CBTX-0005,CB-9004,buy,1.5,SOL,255.75,USD,completed,2026-10-18T11:30:00Z,2026-10-18T11:31:00Z,Bought Solana,0.99
+CBTX-0006,CB-9001,sell,0.005,BTC,339.5,USD,completed,2026-10-22T08:00:00Z,2026-10-22T08:01:00Z,Sold Bitcoin,0.99
+CBTX-0007,CB-9005,buy,500.0,DOGE,85.0,USD,completed,2026-10-25T13:10:00Z,2026-10-25T13:11:00Z,Bought Dogecoin,0.99
+CBTX-0008,CB-9002,convert,0.02,ETH,61.84,USD,completed,2026-10-28T15:00:00Z,2026-10-28T15:01:00Z,Converted ETH to USDC,0.99
+CBTX-0009,CB-9006,buy,100.0,ADA,36.0,USD,completed,2026-11-01T10:00:00Z,2026-11-01T10:01:00Z,Bought Cardano,0.99
+CBTX-0010,CB-9001,receive,0.003,BTC,203.67,USD,pending,2026-11-05T19:20:00Z,2026-11-05T19:20:00Z,Received BTC from friend,0.00

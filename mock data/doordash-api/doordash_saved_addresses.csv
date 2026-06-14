@@ -1,0 +1,6 @@
+address_id,customer_id,label,street_address,city,state,zipcode,lat,lng,delivery_instructions,is_default,created_at
+ADD-001,U-DD-001,Home,"8200 Greensboro Dr, Apt 4B",McLean,VA,22102,38.9212,-77.2289,Leave at door,True,2024-03-10T09:00:00Z
+ADD-002,U-DD-001,Work,"1875 Explorer St, Suite 900",Reston,VA,20190,38.9528,-77.3593,Lobby front desk,False,2024-03-12T10:30:00Z
+ADD-003,U-DD-002,Home,"3021 Lee Hwy",Arlington,VA,22201,38.8902,-77.1001,Ring doorbell twice,True,2024-05-20T14:00:00Z
+ADD-004,U-DD-003,Home,"1234 Chain Bridge Rd",McLean,VA,22101,38.9181,-77.1850,Gate code 1234#,True,2024-07-15T11:00:00Z
+ADD-005,U-DD-004,Home,"7800 Leesburg Pike, Apt 210",Falls Church,VA,22043,38.8861,-77.1578,Apartment buzzer 210,True,2024-09-01T08:00:00Z

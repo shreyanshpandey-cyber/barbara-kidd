@@ -1,0 +1,12 @@
+{
+  "test_plaid_live_hysa_balance_surfaced": 5,
+  "test_eventbrite_focal_package_price_surfaced": 5,
+  "test_plaid_drift_transaction_surfaced": 3,
+  "test_plaid_accounts_balance_read": 3,
+  "test_eventbrite_workshop_rsvp_read": 3,
+  "test_plaid_transactions_read": 1,
+  "test_no_payment_submission_mutation": 3,
+  "test_coinbase_distractor": -3,
+  "test_alpaca_distractor": -3,
+  "test_doordash_distractor": -3
+}

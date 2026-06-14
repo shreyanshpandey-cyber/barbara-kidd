@@ -1,0 +1,7 @@
+difficulty: hard
+modalities: [text, document, email]
+l1: education_finance_space
+l2: mcat_prep_spend_readiness_review
+task_type: multimodal_reconciliation
+required_apis: [plaid, eventbrite]
+distractor_apis: [coinbase, alpaca, doordash]

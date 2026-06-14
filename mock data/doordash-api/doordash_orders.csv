@@ -1,0 +1,11 @@
+order_id,customer_id,store_id,store_name,status,subtotal,delivery_fee,service_fee,tip,total,created_at,estimated_delivery_at,delivered_at,delivery_address,payment_method,dasher_name,dasher_rating
+DDO-10001,U-DD-001,DD-S001,Chipotle Mexican Grill,delivered,21.90,1.99,2.19,4.00,30.08,2026-10-01T12:10:00Z,2026-10-01T12:38:00Z,2026-10-01T12:35:00Z,"8200 Greensboro Dr, McLean, VA 22102",credit_card,Terrence B.,4.9
+DDO-10002,U-DD-001,DD-S002,Shake Shack,delivered,25.07,2.49,2.51,5.00,35.07,2026-10-04T18:45:00Z,2026-10-04T19:18:00Z,2026-10-04T19:20:00Z,"8200 Greensboro Dr, McLean, VA 22102",credit_card,Sofia R.,5.0
+DDO-10003,U-DD-002,DD-S005,Joe's Pizza,delivered,29.97,0.99,3.00,6.00,39.96,2026-10-08T19:30:00Z,2026-10-08T19:52:00Z,2026-10-08T19:50:00Z,"3021 Lee Hwy, Arlington, VA 22201",debit_card,Marcus A.,4.8
+DDO-10004,U-DD-003,DD-S006,Sushi Sono,delivered,43.97,2.99,4.40,8.00,59.36,2026-10-10T20:00:00Z,2026-10-10T20:38:00Z,2026-10-10T20:40:00Z,"1234 Chain Bridge Rd, McLean, VA 22101",credit_card,Priya N.,4.7
+DDO-10005,U-DD-001,DD-S004,Cava,cancelled,18.50,1.49,1.85,0.00,21.84,2026-10-12T13:00:00Z,,,  "8200 Greensboro Dr, McLean, VA 22102",credit_card,,
+DDO-10006,U-DD-002,DD-S008,Sweetgreen,delivered,14.25,2.49,1.43,3.00,21.17,2026-10-15T12:15:00Z,2026-10-15T12:45:00Z,2026-10-15T12:43:00Z,"3021 Lee Hwy, Arlington, VA 22201",paypal,Daniel K.,5.0
+DDO-10007,U-DD-004,DD-S010,Starbucks,delivered,11.50,2.99,1.15,2.00,17.64,2026-10-17T08:05:00Z,2026-10-17T08:28:00Z,2026-10-17T08:26:00Z,"7800 Leesburg Pike, Falls Church, VA 22043",credit_card,Aaliyah J.,4.6
+DDO-10008,U-DD-003,DD-S001,Chipotle Mexican Grill,delivered,16.45,1.99,1.65,3.00,23.09,2026-10-20T12:30:00Z,2026-10-20T12:58:00Z,2026-10-20T13:00:00Z,"1234 Chain Bridge Rd, McLean, VA 22101",credit_card,Jake M.,4.5
+DDO-10009,U-DD-001,DD-S002,Shake Shack,out_for_delivery,20.58,2.49,2.06,4.00,29.13,2026-11-05T18:55:00Z,2026-11-05T19:25:00Z,,  "8200 Greensboro Dr, McLean, VA 22102",credit_card,Omar V.,
+DDO-10010,U-DD-004,DD-S007,Panda Express,delivered,13.95,1.99,1.40,2.50,19.84,2026-10-28T19:00:00Z,2026-10-28T19:28:00Z,2026-10-28T19:25:00Z,"7800 Leesburg Pike, Falls Church, VA 22043",debit_card,Lisa T.,4.8

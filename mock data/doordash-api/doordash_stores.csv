@@ -1,0 +1,11 @@
+store_id,name,formatted_address,lat,lng,cuisine_type,rating,rating_count,price_range,delivery_fee,estimated_delivery_min,is_open,accepts_pickup,sponsored,business_status
+DD-S001,Chipotle Mexican Grill,"1420 Spring Hill Rd, Vienna, VA 22182",38.9001,-77.2632,Mexican,4.6,2340,2,1.99,25,True,True,False,OPERATIONAL
+DD-S002,Shake Shack,"8413 Old Courthouse Rd, Vienna, VA 22182",38.9020,-77.2548,American - Burgers,4.7,1890,3,2.49,30,True,True,True,OPERATIONAL
+DD-S003,Founding Farmers,"1924 Pennsylvania Ave NW, Washington, DC 20006",38.8996,-77.0450,American,4.5,3100,3,3.99,45,True,False,False,OPERATIONAL
+DD-S004,Cava,"3310 N Fairfax Dr, Arlington, VA 22201",38.8837,-77.1002,Mediterranean,4.4,1540,2,1.49,20,True,True,False,OPERATIONAL
+DD-S005,Joe's Pizza,"232 Maple Ave E, Vienna, VA 22180",38.9022,-77.2658,Pizza - Italian,4.8,980,1,0.99,20,True,True,False,OPERATIONAL
+DD-S006,Sushi Sono,"8334 Leesburg Pike, Vienna, VA 22182",38.9015,-77.2541,Japanese - Sushi,4.6,720,3,2.99,35,True,False,False,OPERATIONAL
+DD-S007,Panda Express,"2050 Chain Bridge Rd, Vienna, VA 22182",38.9010,-77.2610,Chinese - Fast Food,4.1,1120,1,1.99,25,True,True,False,OPERATIONAL
+DD-S008,Sweetgreen,"8519 Leesburg Pike, Tysons, VA 22182",38.9025,-77.2537,Salads - Healthy,4.5,870,2,2.49,28,True,True,True,OPERATIONAL
+DD-S009,Roti Modern Mediterranean,"1747 Pennsylvania Ave NW, Washington, DC 20006",38.8990,-77.0435,Mediterranean,4.3,650,2,3.49,42,True,False,False,OPERATIONAL
+DD-S010,Starbucks,"394 Maple Ave W, Vienna, VA 22180",38.9018,-77.2671,Coffee - Cafe,4.2,2100,2,2.99,20,True,True,False,OPERATIONAL

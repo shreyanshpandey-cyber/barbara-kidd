@@ -1,0 +1,11 @@
+order_id,account_id,symbol,asset_class,qty,filled_qty,type,side,time_in_force,limit_price,stop_price,filled_avg_price,status,created_at,updated_at,submitted_at,filled_at,expired_at,canceled_at,extended_hours
+ORD-A001,ALP-3001,AAPL,us_equity,5,5,market,buy,day,,,,191.80,filled,2026-10-02T09:31:00Z,2026-10-02T09:31:04Z,2026-10-02T09:31:00Z,2026-10-02T09:31:04Z,,,False
+ORD-A002,ALP-3001,NVDA,us_equity,3,3,limit,buy,gtc,820.00,,820.00,filled,2026-10-05T10:15:00Z,2026-10-05T14:22:00Z,2026-10-05T10:15:00Z,2026-10-05T14:22:00Z,,,False
+ORD-A003,ALP-3001,TSLA,us_equity,10,10,market,buy,day,,,,241.50,filled,2026-10-10T09:30:00Z,2026-10-10T09:30:06Z,2026-10-10T09:30:00Z,2026-10-10T09:30:06Z,,,False
+ORD-A004,ALP-3002,AMZN,us_equity,2,0,limit,buy,gtc,195.00,,,pending_new,2026-11-01T11:00:00Z,2026-11-01T11:00:00Z,2026-11-01T11:00:00Z,,,,False
+ORD-A005,ALP-3001,MSFT,us_equity,5,5,market,sell,day,,,,427.10,filled,2026-10-15T13:00:00Z,2026-10-15T13:00:05Z,2026-10-15T13:00:00Z,2026-10-15T13:00:05Z,,,False
+ORD-A006,ALP-3003,META,us_equity,4,4,limit,buy,day,540.00,,540.00,filled,2026-10-18T09:32:00Z,2026-10-18T10:48:00Z,2026-10-18T09:32:00Z,2026-10-18T10:48:00Z,,,False
+ORD-A007,ALP-3003,GOOGL,us_equity,6,6,market,buy,day,,,,182.00,filled,2026-10-20T09:30:00Z,2026-10-20T09:30:03Z,2026-10-20T09:30:00Z,2026-10-20T09:30:03Z,,,False
+ORD-A008,ALP-3004,SPY,us_equity,3,0,stop,buy,gtc,,520.00,,canceled,2026-10-22T09:45:00Z,2026-10-23T09:30:00Z,2026-10-22T09:45:00Z,,,2026-10-23T09:30:00Z,False
+ORD-A009,ALP-3001,AAPL,us_equity,5,5,market,buy,day,,,,189.00,filled,2026-10-25T09:31:00Z,2026-10-25T09:31:02Z,2026-10-25T09:31:00Z,2026-10-25T09:31:02Z,,,False
+ORD-A010,ALP-3002,AAPL,us_equity,6,6,limit,buy,day,183.00,,182.00,filled,2026-10-28T09:30:00Z,2026-10-28T11:05:00Z,2026-10-28T09:30:00Z,2026-10-28T11:05:00Z,,,False

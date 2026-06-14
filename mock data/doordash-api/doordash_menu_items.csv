@@ -1,0 +1,16 @@
+item_id,store_id,name,description,price,category,is_popular,is_available,calories,dietary_tags
+DDI-001,DD-S001,Burrito Bowl,"Your choice of protein over cilantro-lime rice, beans, and fresh toppings",10.95,Bowls,True,True,670,gluten-free
+DDI-002,DD-S001,Chicken Burrito,"Grilled chicken with rice, black beans, cheese, and salsa in a flour tortilla",10.50,Burritos,True,True,835,
+DDI-003,DD-S001,Carnitas Tacos (3),"Slow-cooked pork in soft corn tortillas with onion and cilantro",9.75,Tacos,False,True,490,gluten-free
+DDI-004,DD-S001,Chips & Guacamole,"Freshly made guacamole served with tortilla chips",5.95,Sides,True,True,740,vegan;gluten-free
+DDI-005,DD-S002,ShackBurger,"Cheeseburger with ShackSauce, lettuce, tomato, and pickles",9.29,Burgers,True,True,530,
+DDI-006,DD-S002,SmokeShack,"Cheeseburger with Applewood smoked bacon and cherry peppers",11.29,Burgers,True,True,590,
+DDI-007,DD-S002,Crinkle Cut Fries,"Classic crinkle-cut fries, lightly salted",4.49,Sides,True,True,420,vegan
+DDI-008,DD-S002,Chocolate Shake,"Hand-spun fair trade chocolate frozen custard",6.79,Shakes,False,True,760,vegetarian
+DDI-009,DD-S005,Margherita Pizza (12"),"Fresh mozzarella, basil, and San Marzano tomato sauce",14.99,Pizza,True,True,720,vegetarian
+DDI-010,DD-S005,Pepperoni Pizza (12"),"Classic pepperoni on house tomato sauce and mozzarella",15.99,Pizza,True,True,840,
+DDI-011,DD-S005,Garlic Knots (6),"House-made garlic knots with marinara dipping sauce",5.99,Sides,True,True,390,vegetarian
+DDI-012,DD-S006,Salmon Sashimi (8pc),"Fresh Atlantic salmon, thinly sliced",16.99,Sashimi,True,True,210,gluten-free;pescatarian
+DDI-013,DD-S006,Spicy Tuna Roll,"Tuna, cucumber, spicy mayo, and sesame seeds",13.99,Rolls,True,True,380,pescatarian
+DDI-014,DD-S008,Harvest Bowl,"Roasted chicken, sweet potato, apples, goat cheese, roasted almonds",14.25,Bowls,True,True,705,gluten-free
+DDI-015,DD-S010,Caramel Macchiato (Grande),"Espresso with vanilla syrup, milk, and caramel drizzle",5.75,Hot Drinks,True,True,250,vegetarian

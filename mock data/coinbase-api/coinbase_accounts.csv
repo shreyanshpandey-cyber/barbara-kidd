@@ -1,0 +1,7 @@
+id,name,primary,type,currency_code,currency_name,balance_amount,native_balance_amount,native_currency,created_at,updated_at
+CB-9001,BTC Wallet,True,wallet,BTC,Bitcoin,0.02714,1842.17,USD,2021-03-14T09:22:00Z,2026-11-02T14:05:00Z
+CB-9002,ETH Wallet,False,wallet,ETH,Ethereum,0.1031,318.44,USD,2021-05-09T17:40:00Z,2026-10-28T08:13:00Z
+CB-9003,USDC Wallet,False,wallet,USDC,USD Coin,62.5,62.5,USD,2022-01-20T11:10:00Z,2026-09-30T19:55:00Z
+CB-9004,SOL Wallet,False,wallet,SOL,Solana,5.25,892.13,USD,2022-06-15T08:30:00Z,2026-10-15T10:20:00Z
+CB-9005,DOGE Wallet,False,wallet,DOGE,Dogecoin,1200.0,204.0,USD,2023-01-10T14:45:00Z,2026-11-01T09:00:00Z
+CB-9006,ADA Wallet,False,wallet,ADA,Cardano,340.0,122.4,USD,2023-03-22T16:00:00Z,2026-10-20T11:30:00Z
